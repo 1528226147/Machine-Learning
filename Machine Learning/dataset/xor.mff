@@ -1,0 +1,12 @@
+@dataset xor
+
+@attribute value1 t f
+@attribute value2 t f
+@attribute answer t f
+
+@examples
+
+t t f
+t f t
+f t t
+f f f

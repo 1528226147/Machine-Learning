@@ -1,0 +1,13 @@
+@dataset midterm
+
+@attribute color red blue green
+@attribute size numeric
+@attribute label + -
+
+@examples
+
+red 2.3 +
+blue 1.3 +
+red 5.2 -
+blue 4.8 -
+green 4.9 -
